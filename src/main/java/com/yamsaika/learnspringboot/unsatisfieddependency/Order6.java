@@ -1,4 +1,4 @@
 package com.yamsaika.learnspringboot.unsatisfieddependency;
 
-public interface Order {
+public interface Order6 {
 }
